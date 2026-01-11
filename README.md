@@ -6,20 +6,22 @@
 Im an active student with a profound interest in technology and a dedication to solving complex problems!
 
 ## Objective
-I want to leverage my Education AND IT background and hands-on cybersecurity experience to secure a position as a IAM Analyst, with the ultimate goal of advancing to a Cloud Security Engineer role at Microsoft. My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field!
+I want to leverage my education background and hands-on cybersecurity experience to secure a position as a Security Analyst, with the ultimate goal of advancing to a Cloud Security Engineer role. My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field!
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/najeekwright/Azure-Sentinel-SIEM-Honeypot-Lab"> Azure Sentinel SIEM Honeypot</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/najeekwright/Open-Source-SIEM-XDR-Implementation-Wazuh-Home-Lab"> Open-Source SIEM & XDR Implementation: Wazuh Home Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/najeekwright/Azure-Sentinel-SIEM-Honeypot-Lab">Azure Sentinel SIEM Honeypot</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
+"https://github.com/najeekwright/Open-Source-SIEM-XDR-Implementation-Wazuh-Home-Lab
+https://github.com/najeekwright/Azure-Sentinel-SIEM-Honeypot-Lab
 ## Tools
 
 
@@ -60,4 +62,4 @@ I want to leverage my Education AND IT background and hands-on cybersecurity exp
 ## Projects
 
 - <a href="https://github.com/najeekwright/Azure-Sentinel-SIEM-Honeypot-Lab"> Azure Sentinel SIEM Honeypot</a>
-- SOC Automation Project
+- <a href="https://github.com/najeekwright/Open-Source-SIEM-XDR-Implementation-Wazuh-Home-Lab"> Open-Source SIEM & XDR Implementation: Wazuh Home Lab</a>
