@@ -1,4 +1,4 @@
-# Hello, I'm Najee W!
+# Hello, I'm Najee
 <a href="https://linkedin.com/in/najee-wright"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
@@ -21,7 +21,11 @@ I want to leverage my Education AND IT background and hands-on cybersecurity exp
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
+
+<img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=GitHub&logoColor=white" />
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/-Wazuh-00A9E5?&style=for-the-badge&logo=shield&logoColor=white" />        
 
 ### Network
 <div>
@@ -49,10 +53,11 @@ I want to leverage my Education AND IT background and hands-on cybersecurity exp
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+
+
 </div>
 
 ## Projects
+
 - Detection Lab
 - SOC Automation Project
