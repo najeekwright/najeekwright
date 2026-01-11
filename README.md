@@ -15,13 +15,12 @@ I want to leverage my education background and hands-on cybersecurity experience
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/najeekwright/Open-Source-SIEM-XDR-Implementation-Wazuh-Home-Lab"> Open-Source SIEM & XDR Implementation: Wazuh Home Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/najeekwright/Azure-Sentinel-SIEM-Honeypot-Lab">Azure Sentinel SIEM Honeypot</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Security Automation with Shuffle SOAR         | Ongoing |
+| Incident Response Planning and Execution      | Ongoing |
+| Case Management with TheHive                  | Ongoing |
+| Scripting and Automation for Threat Mitigation | Ongoing |
 
-"https://github.com/najeekwright/Open-Source-SIEM-XDR-Implementation-Wazuh-Home-Lab
-https://github.com/najeekwright/Azure-Sentinel-SIEM-Honeypot-Lab
+
 ## Tools
 
 
