@@ -13,7 +13,7 @@ I want to leverage my Education AND IT background and hands-on cybersecurity exp
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/najeekwright/Azure-Sentinel-SIEM-Honeypot-Lab"> Azure Sentinel SIEM Honeypot</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -59,5 +59,5 @@ I want to leverage my Education AND IT background and hands-on cybersecurity exp
 
 ## Projects
 
-- Detection Lab
+- <a href="https://github.com/najeekwright/Azure-Sentinel-SIEM-Honeypot-Lab"> Azure Sentinel SIEM Honeypot</a>
 - SOC Automation Project
