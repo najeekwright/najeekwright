@@ -6,7 +6,7 @@
 Im an active student with a profound interest in technology and a dedication to solving complex problems!
 
 ## Objective
-To leverage my IT background and hands-on cybersecurity experience to secure a position as a IAM Analyst, with the ultimate goal of advancing to a Cloud Security Engineer role at Microsoft. My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field!
+I want to leverage my Education AND IT background and hands-on cybersecurity experience to secure a position as a IAM Analyst, with the ultimate goal of advancing to a Cloud Security Engineer role at Microsoft. My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field!
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
